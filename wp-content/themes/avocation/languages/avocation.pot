@@ -1,0 +1,484 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Avocation\n"
+"POT-Creation-Date: 2018-07-31 18:46+0530\n"
+"PO-Revision-Date: 2018-07-31 18:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: author.php:11
+msgid "Published by"
+msgstr ""
+
+#. translators: %s is single category name.
+#: category.php:11
+#, php-format
+msgid "Category : %s"
+msgstr ""
+
+#. translators: i is comment count
+#: comments.php:14
+#, php-format
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s is theme info.
+#: footer.php:19
+#, php-format
+msgid "Powered by %1$s"
+msgstr ""
+
+#: functions.php:9
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:65
+msgid "Pro Feature"
+msgstr ""
+
+#: functions.php:65
+msgid "Avocation Pro"
+msgstr ""
+
+#: functions.php:77
+msgid "READ MORE"
+msgstr ""
+
+#: functions/breadcrumbs.php:11 functions/breadcrumbs.php:15
+msgid "Home"
+msgstr ""
+
+#: functions/breadcrumbs.php:20
+msgid "category"
+msgstr ""
+
+#: functions/breadcrumbs.php:23
+msgid "Search Results For"
+msgstr ""
+
+#: functions/breadcrumbs.php:81
+msgid "Posts tagged"
+msgstr ""
+
+#: functions/breadcrumbs.php:86
+msgid "Articles posted by "
+msgstr ""
+
+#: functions/breadcrumbs.php:89
+msgid "Error 404"
+msgstr ""
+
+#: functions/breadcrumbs.php:94
+msgid "Page"
+msgstr ""
+
+#: functions/getintouch.php:11
+msgid "A widget that displays the title,contact information. "
+msgstr ""
+
+#: functions/getintouch.php:13
+msgid "Get In Touch"
+msgstr ""
+
+#: functions/getintouch.php:33 functions/getintouch.php:75
+msgid "Phone:"
+msgstr ""
+
+#: functions/getintouch.php:36 functions/getintouch.php:81
+msgid "Fax:"
+msgstr ""
+
+#: functions/getintouch.php:39
+msgid "Email:"
+msgstr ""
+
+#: functions/getintouch.php:42
+msgid "Web:"
+msgstr ""
+
+#: functions/getintouch.php:62
+msgid "Widget Title:"
+msgstr ""
+
+#: functions/getintouch.php:68
+msgid "Address:"
+msgstr ""
+
+#: functions/getintouch.php:87
+msgid "Email Address:"
+msgstr ""
+
+#: functions/getintouch.php:93
+msgid "Website:"
+msgstr ""
+
+#: functions/popularpost.php:13
+msgid "Displays a Latest post with thumbnail"
+msgstr ""
+
+#: functions/popularpost.php:22
+msgid "Title:"
+msgstr ""
+
+#: functions/popularpost.php:23
+msgid "Number of posts to show:"
+msgstr ""
+
+#: functions/popularpost.php:26
+msgid "Display post date?"
+msgstr ""
+
+#: functions/theme-customizer.php:38
+msgid "General"
+msgstr ""
+
+#: functions/theme-customizer.php:39
+msgid "styling options"
+msgstr ""
+
+#: functions/theme-customizer.php:45 functions/theme-customizer.php:50
+msgid "Header & Logo"
+msgstr ""
+
+#: functions/theme-customizer.php:55
+msgid "Basic Settings"
+msgstr ""
+
+#: functions/theme-customizer.php:62
+msgid ""
+"In first input box, you need to add FONT AWESOME shortcode which you can "
+"find "
+msgstr ""
+
+#: functions/theme-customizer.php:62
+msgid "here"
+msgstr ""
+
+#: functions/theme-customizer.php:62
+msgid ""
+" and in second input box, you need to add your social media profile URL."
+msgstr ""
+
+#: functions/theme-customizer.php:62
+msgid ""
+" Enter the URL of your social accounts. Leave it empty to hide the icon."
+msgstr ""
+
+#: functions/theme-customizer.php:77
+msgid "Front Page : Banner Slider"
+msgstr ""
+
+#: functions/theme-customizer.php:83
+msgid "About Us Section"
+msgstr ""
+
+#: functions/theme-customizer.php:88
+msgid "Purpose Business Section"
+msgstr ""
+
+#: functions/theme-customizer.php:93
+msgid "Blog Section"
+msgstr ""
+
+#: functions/theme-customizer.php:113
+msgid "Breadcrumb background image"
+msgstr ""
+
+#: functions/theme-customizer.php:114
+msgid "Background Image (Recommended size 1280 x 200)"
+msgstr ""
+
+#: functions/theme-customizer.php:123
+msgid "Footer background image"
+msgstr ""
+
+#: functions/theme-customizer.php:124
+msgid "Background Image (Recommended size 1280 x 400)"
+msgstr ""
+
+#: functions/theme-customizer.php:141
+msgid "Upload Slider Image "
+msgstr ""
+
+#: functions/theme-customizer.php:159
+msgid "Enter Slider Title "
+msgstr ""
+
+#: functions/theme-customizer.php:161
+msgid "Enter Slider Title"
+msgstr ""
+
+#: functions/theme-customizer.php:173
+msgid "Enter Slider Description "
+msgstr ""
+
+#: functions/theme-customizer.php:175
+msgid "Enter Slider Description"
+msgstr ""
+
+#: functions/theme-customizer.php:187
+msgid "Enter Slider Link "
+msgstr ""
+
+#: functions/theme-customizer.php:189
+msgid "Enter Slider URL"
+msgstr ""
+
+#: functions/theme-customizer.php:204
+msgid "Upload Aboutus Image "
+msgstr ""
+
+#: functions/theme-customizer.php:222
+msgid "Enter Aboutus Title "
+msgstr ""
+
+#: functions/theme-customizer.php:224
+msgid "Enter Aboutus Title"
+msgstr ""
+
+#: functions/theme-customizer.php:236
+msgid "Enter Aboutus Subtitle "
+msgstr ""
+
+#: functions/theme-customizer.php:238
+msgid "Enter Aboutus Subtitle"
+msgstr ""
+
+#: functions/theme-customizer.php:250
+msgid "Enter Aboutus Description "
+msgstr ""
+
+#: functions/theme-customizer.php:252
+msgid "Enter Aboutus Description"
+msgstr ""
+
+#: functions/theme-customizer.php:282
+msgid "Background Image (Recommended size 1280 x 853)"
+msgstr ""
+
+#: functions/theme-customizer.php:330
+msgid "Social Account "
+msgstr ""
+
+#: functions/theme-customizer.php:347
+msgid "Enter Icon"
+msgstr ""
+
+#: functions/theme-customizer.php:356
+msgid "Social Link "
+msgstr ""
+
+#: functions/theme-customizer.php:374
+msgid "Enter URL"
+msgstr ""
+
+#: functions/theme-customizer.php:380
+msgid "Footer"
+msgstr ""
+
+#: functions/theme-customizer.php:396
+msgid "Enter Copyright Text"
+msgstr ""
+
+#: functions/theme-customizer.php:412
+msgid "Hide Widget Area"
+msgstr ""
+
+#: functions/theme-customizer.php:415
+msgid "Show"
+msgstr ""
+
+#: functions/theme-customizer.php:416
+msgid "Hide"
+msgstr ""
+
+#: functions/theme-customizer.php:431
+msgid "Select Widget Area"
+msgstr ""
+
+#: functions/theme-customizer.php:434
+msgid "1 column"
+msgstr ""
+
+#: functions/theme-customizer.php:435
+msgid "2 column"
+msgstr ""
+
+#: functions/theme-customizer.php:436
+msgid "3 column"
+msgstr ""
+
+#: functions/theme-customizer.php:437
+msgid "4 column"
+msgstr ""
+
+#: functions/theme-default-setup.php:8
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions/theme-default-setup.php:18
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions/theme-default-setup.php:20
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: functions/theme-default-setup.php:27
+msgid "Footer Area One"
+msgstr ""
+
+#: functions/theme-default-setup.php:29
+msgid "Footer Area One that appears on the footer."
+msgstr ""
+
+#: functions/theme-default-setup.php:36
+msgid "Footer Area Two"
+msgstr ""
+
+#: functions/theme-default-setup.php:38
+msgid "Footer Area Two that appears on the footer."
+msgstr ""
+
+#: functions/theme-default-setup.php:45
+msgid "Footer Area Three"
+msgstr ""
+
+#: functions/theme-default-setup.php:47
+msgid "Footer Area Three that appears on the footer."
+msgstr ""
+
+#: functions/theme-default-setup.php:54
+msgid "Footer Area Four"
+msgstr ""
+
+#: functions/theme-default-setup.php:56
+msgid "Footer Area Four that appears on the footer."
+msgstr ""
+
+#. translators: %s is author name
+#: functions/theme-default-setup.php:81
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions/theme-default-setup.php:103 functions/theme-default-setup.php:106
+msgid "No Comments"
+msgstr ""
+
+#: functions/theme-default-setup.php:108
+msgid " Comments"
+msgstr ""
+
+#: functions/theme-default-setup.php:110
+msgid "1 Comment"
+msgstr ""
+
+#: functions/theme-default-setup.php:127
+msgctxt "comment form placeholder"
+msgid "Name *"
+msgstr ""
+
+#: functions/theme-default-setup.php:139
+msgctxt "comment form placeholder"
+msgid "Email Id *"
+msgstr ""
+
+#: functions/theme-default-setup.php:150
+msgctxt "comment form placeholder"
+msgid "Website URl"
+msgstr ""
+
+#: functions/theme-default-setup.php:166
+msgctxt "comment form placeholder"
+msgid "Comment"
+msgstr ""
+
+#: index.php:15 page-templates/homepage.php:117
+msgid "Our Blog"
+msgstr ""
+
+#: page-templates/homepage.php:31
+msgid "Read More"
+msgstr ""
+
+#. translators: %s is search query.
+#: search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: single.php:36
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Avocation"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://fruitthemes.com/wordpress-themes/avocation/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Avocation is a lightweight, clean, super flexible and bootstrap based "
+"responsive theme for business or personal websites. Avocation Theme is built "
+"on top of Twitter Bootstrap which means that your site can be displayed on "
+"every device (pc, laptop, mobile devices, tablets etc) without horizontal "
+"scrolling. It has got custom widgets, theme-options etc in order to get it "
+"customized as per your need.Step by step documentation and dummy data is "
+"available at: https://fruitthemes.com/documentation/avocation/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FruitThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fruitthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage */"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr ""
